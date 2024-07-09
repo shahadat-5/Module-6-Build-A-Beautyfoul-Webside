@@ -1,0 +1,271 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: "Open Sans", sans-serif;
+}
+
+
+
+.main_bg_colore {
+    background-color: #474747;
+}
+.contant_shape {
+	max-width: 66%;
+	margin: auto;
+    background-color: #fff;
+}
+
+/* Nave_style */
+
+#navebar {
+	display: flex;
+	justify-content: space-around;
+    align-items: center;
+    padding: 35px 0px;
+}
+
+.mary-r{
+    color: #FD6E0A;
+}
+.mary {
+	font-size: 45px;
+	font-weight: bolder;
+    margin-left: -13.5rem;
+}
+.nave-menu {
+	list-style: none;
+    display: flex;
+    align-items: center;
+}
+.nave_li {
+    margin-right: 50px;
+}
+.nave_li_a {
+    color: #474747;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: normal;
+
+}
+.contacts {
+	margin-left: 20px;
+}
+.btn {
+    font-size:20px ;
+    font-weight:bold ;
+    background-color: #FD6E0A;
+    color:white ;
+    padding:18px 35px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.banner_h4 {
+    font-size: 45px;
+    font-weight:600;
+    color: #D9D9D9;
+}
+      /* banner style  */
+
+.banner {
+    background-image: url(/portfolio-resources/images/developer.png) , url(/portfolio-resources/images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left , bottom right;
+	display: flex;
+	justify-content: space-between;
+}
+.banner-text {
+	width: 585px;
+	margin: 9rem 0 0 9rem;
+}
+.banner_tittle {
+	font-size: 85px;
+	font-weight: bold;
+	color: #181818;
+	padding-bottom: 20px;
+}
+.banner_description {
+	font-size: 18px;
+	font-weight: 400;
+	color: #757575;
+	padding-bottom: 30px;
+}
+.banner-img {
+	width: 584px;
+	height: auto;
+} 
+
+/* About Me */
+
+.body_wi {
+    max-width: 80%;
+    margin: auto;
+}    
+.body_shape {
+    background-color: #FFF8F3;
+    border-radius: 10px;
+    padding: 156px 130px;
+    margin: 120px 0px;
+}
+.body_tittle {
+	font-size: 35px;
+	font-weight: bold;
+	color: #181818;
+}
+.description_p {
+	font-size: 18px;
+	font-weight: 400;
+	color: #757575;
+}
+.bg_colore {
+	background-color: white;
+	border: 1px solid #0000004d;
+	padding: 10px;
+    text-align: center;
+}
+.introduction_box {
+	display: flex;
+	justify-content: space-between;
+}
+.description_bold {
+	font-size: 18px;
+	font-weight: bold;
+	color: #474747;
+    padding: 25px 0px 15px;
+}
+.designer {
+    padding:30px 0px;
+}
+
+/* What I do */
+
+.service_box {
+	display: flex;
+	gap: 24px;
+	margin: 30px 0px 120px 0px;
+}
+.service_tittle_box {
+    text-align: center;
+    width: 76%;
+    margin: auto;
+}
+.service {
+	margin-right: 5px;
+	background-color: aliceblue;
+	padding: 30px;
+}
+
+/* A summary of My Resume */
+
+.summary {
+    text-align: center;
+}
+.resume_tittle {
+	font-size: 35px;
+	font-weight: bold;
+	color: #474747;
+}
+.resume_box {
+	display: flex;
+    margin: 120px 0px 60px;
+}
+.resume_download {
+	text-align: center;
+	padding-bottom: 120px;
+}
+.resume_p {
+	padding-right: 142px;
+}
+.description_16 {
+	font-size: 16px;
+	font-weight: 400;
+	color: #757575;
+    padding-right: 20px;
+}
+.resume_p {
+	padding-right: 9.5rem;
+}
+.resume_h4 {
+	font-size: 25px;
+	font-weight: bold;
+	color: #474747;
+	padding: 20px 0px 5px 0px;
+}
+.resume_h5 {
+	font-size: 20px;
+	font-weight: 600;
+	color: #757575;
+	padding-bottom: 15px;
+}
+.resume_text {
+	border-bottom: 1px solid #00000029;
+	padding: 30px 0px 45px 0px;
+	margin-bottom: 30px;
+}
+.education_section {
+	margin-right: 25px;
+}
+
+/* footer section */
+
+.footer-bg {
+	background-color: #FFF8F3;
+}
+.footer_left {
+	width: 50%;
+}
+.footer_right {
+	width: 50%;
+}
+.footer_flex {
+	display: flex;
+	justify-content: space-between;
+	padding: 120px 0px;
+	gap: 60px;
+}
+.name_email {
+	display: block;
+	width: 100%;
+	font-size: 16px;
+	font-weight: 400;
+	color: #757575;
+	padding: 20px 0px 20px 20px;
+	margin: 20px 0;
+	border: 0;
+	border-radius: 5px;
+}
+.message {
+	padding: 20px 0px 100px 20px;
+}
+.footer_icon {
+	list-style: none;
+}
+.footer_icon {
+	list-style: none;
+	display: inline;
+	color: #FD6E0A;
+	padding-right: 20px;
+}
+.footer_p {
+	padding: 25px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
